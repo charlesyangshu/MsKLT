@@ -1,4 +1,5 @@
 # Blind Image Quality Assessment Based on Multi-scale KLT
+[paper](https://ieeexplore.ieee.org/document/9113755)
 
 
 ## Citation
